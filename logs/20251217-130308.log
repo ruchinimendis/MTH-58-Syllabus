@@ -1,0 +1,14 @@
+INFO    : Staging deployment according to strategy default_target
+INFO    : Since no target was supplied, we will use "web".
+
+INFO    : Staging latest build located in `C:\Users\ruchi\Documents\Pretext\MTH-58-Syllabus\output\web` at `C:\Users\ruchi\Documents\Pretext\MTH-58-Syllabus\output\stage`.
+INFO    : 
+ERROR   : Git must be installed to use this feature, but couldn't be found.
+ERROR   : Visit https://github.com/git-guides/install-git for assistance.
+ERROR   : 
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
