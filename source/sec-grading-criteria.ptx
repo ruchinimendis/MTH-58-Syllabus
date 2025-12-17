@@ -3,6 +3,146 @@
 <section xml:id="sec-grading-criteria" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Grading Criteria</title>
 
-  <p> Text of section. </p>
+ <introduction>
+    <p> For general information about grades, please go to the 
+    <url href="http://catalog.pcc.edu/handbook/g301-gradingguidelines/" visual="http://catalog.pcc.edu/handbook/g301-gradingguidelines/">PCC Grading Guidelines.</url></p>
+  <table>
+    <title>Grades</title>
+    <tabular top="major" left="major" right="major" bottom="major">
+      <row header="yes" bottom="medium">
+        <cell>Assignment</cell>
+        <cell>Number</cell>
+        <cell>Weight</cell>
+      </row>
+      <row>
+        <cell>Homework Sets</cell>
+        <cell>7</cell>
+        <cell>20%</cell>
+      </row>
+      <row>
+        <cell>Workbook Activities</cell>
+        <cell>18</cell>
+        <cell>20%</cell>
+      </row>
+      <row>
+        <cell>Quizzes</cell>
+        <cell>7</cell>
+        <cell>10%</cell>
+      </row>
+      <row>
+        <cell>Midterm Exam</cell>
+        <cell>1</cell>
+        <cell>20%</cell>      
+      </row>
+      <row>
+        <cell>Final Exam</cell>
+        <cell>1</cell>
+        <cell>30%</cell>
+      </row>
+    </tabular>
+  </table>
+  </introduction>
+  <subsection xml:id="subsec-assignments">
+    <title>Assignments</title>
+    <p>
+      <dl>
+      <li>
+        <title>Homework Sets</title>
+        <p>
+          Each week you will have a set of homework problems to complete and submit on your own. 
+        </p>
+      </li>
+      <li>
+        <title>Workbook Activities</title>
+        <p>
+          For each class session there is an associated workbook activity. For 
+          most activities, there is a prep-work portion, a group-work portion, 
+          and a post-work reflection portion. It is your responsibility to 
+          arrive to class with the prep work completed so that you can fully
+          participate with your group. The workbook will be turned in with a 
+          self assessment before each Exam.
+        </p>
+      </li>
+      <li>
+        <title>Quizzes</title>
+        <p>
+          There will be seven quizzes, each administered on a Wednesday at the
+          start of class and covering material from the week before. 
+        </p>
+        <p>
+          <em>Quiz Corrections:</em> After your graded quiz is returned, you 
+          may redo the quiz in its entirety and submit it as a Quiz Correction.
+          Your final grade will be an average of your two submissions, meaning
+          you can recover up to half of your missed points by submitting a 
+          quiz correction. For example, if you score a 6/10 on a quiz, you may
+          upgrade your score to an 8/10 with a quiz correction.
+        </p>
+      </li>
+      </dl>
+    </p>
+  </subsection>
+  <subsection xml:id="subsec-exams">
+    <title>Exams</title>
+    <p>
+      <dl>
+      <li>
+        <title>Midterm Exam</title>
+        <p>
+          There is one Midterm Exam in this class, administered on Wednesday,
+          April 30. There will be no calculator allowed on this exam, as all of
+          your work will need to be shown by hand. 
+        </p>
+        <p>
+          <em>Practice Midterm:</em> One week before the Midterm, I will
+          release a Practice Midterm. Working on it together with your group
+          will be one of the Workbook Activities, and you can make sure that
+          you are prepared for the exam and support your classmates by 
+          preparing together.
+        </p>
+        <p>
+          <em>Midterm Corrections:</em> After your graded exam is returned, you 
+          may redo the exam in its entirety and submit it as a Midterm 
+          Correction. Your final grade will be an average of your two 
+          submissions, meaning you can recover up to half of your missed points 
+          by submitting a Midterm correction. For example, if you score a 74% on 
+          the exam, you may upgrade your score to an 87% with a midterm 
+          correction.
+        </p>
+      </li>
+      <li>
+        <title>Final Exam</title>
+        <p>
+		  There is one Final Exam in this class, administered on Monday, June 9. 
+          Unfortunately, since the Final will be during our last class meeting,
+          there is no opportunity for a Final Correction. 
+          </p>
+          <p>
+          <em>Practice Final:</em> One week before the Final, I will release 
+          a Practice Final. Working on it together with your group will be one 
+          of the Workbook Activities, and you can make sure that you are 
+          prepared for the exam and support your classmates by preparing 
+          together.
+        </p>
+      </li>
+      </dl>
+    </p>
+  </subsection>
 
+  <subsection xml:id="subsec-latework">
+    <title>Late Work and Make-Up Policy</title>
+    <p>
+      Mathematics is a subject that builds on itself, so it is crucial that you
+      stay on top of your work at the pace of the class. However, I understand
+      that life does not always line up with college schedules and deadlines. 
+      If you need more time to complete a homework assignment, or if you need 
+      to miss class, please contact me (see <xref ref="communication"/>) to
+      work out an extension, or another way to make up work.
+    </p>
+    
+  </subsection>
+
+  <!-- include sections -->
+  <!--
+  <xi:include href="sec-section-name.ptx" />
+  -->
 </section>
